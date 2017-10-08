@@ -1,6 +1,8 @@
+# Must use scratch to run
+
 New versions will hopefully come out soon.
 
-# Will try to add
+ Will try to add
   
   More weapons
   
